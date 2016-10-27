@@ -2,3 +2,4 @@ Hi Envoy
 Git is fun
 You too can be a Terminal Lord
 Terminal > Source Tree
+Way more powerful
